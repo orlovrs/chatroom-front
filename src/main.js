@@ -9,6 +9,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css';
 
 import { routes } from '@/routes'
 import store from '@/store/store';
+import './chat-hub'
 
 Vue.config.productionTip = false
 
